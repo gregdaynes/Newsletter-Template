@@ -92,16 +92,17 @@
 
 			.title {
 				padding-top: 10px;
-				padding-left: 6px;
+				padding-left: 3px;
 				padding-right: 10px;
 				text-align: left;
 			}
 
 			.text {
-				padding-left: 6px;
-				padding-right: 10px;
-				padding-top: 6px;
+				padding-left: 3px;
+				padding-right: 6px;
+				padding-top: 3px;
 				text-align: left;
+				display:  block;
 			}
 
 			#menu {
@@ -146,7 +147,7 @@
 				<!-- ARTICLES -->
 				<td id="content" mc:edit="content" width="467" valign="top">
 					<table border="0" cellpadding="0" cellspacing="0" width="467">
-						<jdoc:include type="modules" name="newsletter_articles" />
+						<jdoc:include type="modules" name="newsletter_articles" style="content" />
 					</table>
 				</td>
 				<!-- /ARTICLES -->

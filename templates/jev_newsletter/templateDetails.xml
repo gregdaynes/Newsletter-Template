@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.5/template-install.dtd">
+<install version="1.5" type="template">
+	<name>Newsletter</name>
+	<creationDate>12/02/05</creationDate>
+	<author>Gregory Daynes</author>
+	<authorEmail>info@jevolve.net</authorEmail>
+	<authorUrl>http://jevolve.net</authorUrl>
+	<copyright></copyright>
+	<license>GNU/GPL</license>
+	<version>1.0.0</version>
+	<description></description>
+	
+	<positions>
+		<position>newsletter_header</position>
+		<position>newsletter_leaderboard</position>
+		<position>newsletter_articles</position>
+		<position>newsletter_advertising</position>
+		<position>newsletter_menu</position>
+		<position>newsletter_footer</position>
+	</positions>
+</install>
